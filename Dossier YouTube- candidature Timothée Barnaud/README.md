@@ -138,7 +138,7 @@ comme des mesures absolues de performance ou de qualité éditoriale.
 │ ├── raw/ # données brutes issues de l’API
 │ └── clean/ # dataset final utilisé pour les visualisations
 ├── notebooks/
-│ └── analyse_youtube.ipynb
+│ └── analyse_youtube_medias.ipynb
 ├── visualizations/
 │ ├── graphique_1.png
 │ ├── graphique_2.png
