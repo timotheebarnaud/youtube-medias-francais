@@ -133,10 +133,8 @@ comme des mesures absolues de performance ou de qualité éditoriale.
 ## Organisation du dépôt
 ```
 ├── data/
-│  
-├── data/
-│ ├── raw/ # données brutes issues de l’API
-│ └── clean/ # dataset final utilisé pour les visualisations
+│ ├── raw/
+│ └── clean/
 ├── notebooks/
 │ └── analyse_youtube_medias.ipynb
 ├── visualizations/
