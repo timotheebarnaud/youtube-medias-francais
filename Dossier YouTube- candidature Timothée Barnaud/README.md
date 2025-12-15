@@ -131,7 +131,9 @@ comme des mesures absolues de performance ou de qualité éditoriale.
 ---
 
 ## Organisation du dépôt
-
+```
+├── data/
+│  
 ├── data/
 │ ├── raw/ # données brutes issues de l’API
 │ └── clean/ # dataset final utilisé pour les visualisations
@@ -142,7 +144,7 @@ comme des mesures absolues de performance ou de qualité éditoriale.
 │ ├── graphique_2.png
 │ └── graphique_3.png
 └── README.md
-
+```
 
 ---
 
